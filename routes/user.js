@@ -38,7 +38,7 @@ router.post("/signup",async(req,res)=>{
         html:`
         <div>
         <strong>${req.body.email}</strong> we welcome to our platform.
-        <a href="https://splendorous-lily-a3f1ee.netlify.app/user/verify/${token}">Verify Email </a>
+        <a href="https://vocal-croquembouche-b98f4c.netlify.app/user/verify/${token}">Verify Email </a>
         <div>
         <p>Thanks and Regards</p>
         <p> From Amazon Team </p>
